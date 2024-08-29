@@ -8,6 +8,18 @@
     <div class="content">
       <div class="username"><a href="https://fanfou.com/twoheart" target="_blank">twoheart</a></div>
       <span class="message">
+        contabo 服务器维护中，暂时无法访问。
+      </span>
+      <div class="meta">
+        <a href="#">2024 年 08 月 29 日 10:28:56</a> 通过网页
+      </div>
+    </div>
+  </div>
+  <div class="quote-fanfou">
+    <div class="avatar"><img class="img" src="./assets/img/avatar.jpg" alt="twoheart"></div>
+    <div class="content">
+      <div class="username"><a href="https://fanfou.com/twoheart" target="_blank">twoheart</a></div>
+      <span class="message">
         nofan 已恢复访问。
       </span>
       <div class="meta">
