@@ -1,36 +1,57 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div class="title">服务器状态</div>
   <div class="quote-fanfou">
-    <div class="avatar"><img class="img" src="./assets/img/avatar.jpg" alt="twoheart"></div>
+    <div class="avatar">
+      <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
+    </div>
     <div class="content">
-      <div class="username"><a href="https://fanfou.com/twoheart" target="_blank">twoheart</a></div>
-      <span class="message">
-        contabo 服务器维护中，暂时无法访问。
-      </span>
+      <div class="username">
+        <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
+      </div>
+      <span class="message"> nofan 已恢复访问。 </span>
+      <div class="meta">
+        <a href="#">2024 年 08 月 29 日 14:19:54</a> 通过网页
+      </div>
+    </div>
+  </div>
+  <div class="quote-fanfou">
+    <div class="avatar">
+      <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
+    </div>
+    <div class="content">
+      <div class="username">
+        <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
+      </div>
+      <span class="message"> contabo 服务器维护中，暂时无法访问。 </span>
       <div class="meta">
         <a href="#">2024 年 08 月 29 日 10:28:56</a> 通过网页
       </div>
     </div>
   </div>
   <div class="quote-fanfou">
-    <div class="avatar"><img class="img" src="./assets/img/avatar.jpg" alt="twoheart"></div>
+    <div class="avatar">
+      <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
+    </div>
     <div class="content">
-      <div class="username"><a href="https://fanfou.com/twoheart" target="_blank">twoheart</a></div>
-      <span class="message">
-        nofan 已恢复访问。
-      </span>
+      <div class="username">
+        <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
+      </div>
+      <span class="message"> nofan 已恢复访问。 </span>
       <div class="meta">
         <a href="#">2024 年 04 月 26 日 15:21:03</a> 通过网页
       </div>
     </div>
   </div>
   <div class="quote-fanfou">
-    <div class="avatar"><img class="img" src="./assets/img/avatar.jpg" alt="twoheart"></div>
+    <div class="avatar">
+      <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
+    </div>
     <div class="content">
-      <div class="username"><a href="https://fanfou.com/twoheart" target="_blank">twoheart</a></div>
+      <div class="username">
+        <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
+      </div>
       <span class="message">
         由于服务器故障，本站暂时无法访问，预计几小时后恢复。
       </span>
@@ -114,7 +135,7 @@
   border: 1px solid #eee;
 }
 
-@media only screen and (max-width:767px) {
+@media only screen and (max-width: 767px) {
   .quote-fanfou .content {
     max-width: 240px;
   }
