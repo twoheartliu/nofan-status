@@ -1,7 +1,21 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="title">服务器状态</div>
+  <div class="title">nofan - 服务器状态</div>
+  <div class="quote-fanfou">
+    <div class="avatar">
+      <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
+    </div>
+    <div class="content">
+      <div class="username">
+        <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
+      </div>
+      <span class="message"> contabo 服务器维护中，暂时无法访问。 </span>
+      <div class="meta">
+        <a href="#">2025 年 04 月 14 日 22:14:18</a> 通过网页
+      </div>
+    </div>
+  </div>
   <div class="quote-fanfou">
     <div class="avatar">
       <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
