@@ -29,6 +29,11 @@
         <a href="#">2025 年 04 月 14 日 22:26:10</a> 通过网页
       </div>
     </div>
+  </div>
+  <div class="quote-fanfou">
+    <div class="avatar">
+      <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
+    </div>
     <div class="content">
       <div class="username">
         <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
