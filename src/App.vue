@@ -10,6 +10,20 @@
       <div class="username">
         <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
       </div>
+      <span class="message"> contabo 服务器故障，暂时无法访问。 </span>
+      <div class="meta">
+        <a href="#">2025 年 11 月 24 日 21:48:56</a> 通过网页
+      </div>
+    </div>
+  </div>
+  <div class="quote-fanfou">
+    <div class="avatar">
+      <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
+    </div>
+    <div class="content">
+      <div class="username">
+        <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
+      </div>
       <span class="message"> nofan 已恢复访问。 </span>
       <div class="meta">
         <a href="#">2025 年 04 月 14 日 22:26:10</a> 通过网页
@@ -22,20 +36,6 @@
       <span class="message"> contabo 服务器维护中，暂时无法访问。 </span>
       <div class="meta">
         <a href="#">2025 年 04 月 14 日 22:14:18</a> 通过网页
-      </div>
-    </div>
-  </div>
-  <div class="quote-fanfou">
-    <div class="avatar">
-      <img class="img" src="./assets/img/avatar.jpg" alt="twoheart" />
-    </div>
-    <div class="content">
-      <div class="username">
-        <a href="https://fanfou.com/twoheart" target="_blank">twoheart</a>
-      </div>
-      <span class="message"> contabo 服务器故障，暂时无法访问。 </span>
-      <div class="meta">
-        <a href="#">2025 年 11 月 24 日 21:48:56</a> 通过网页
       </div>
     </div>
   </div>
